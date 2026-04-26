@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Heading */
+h2 {
+    margin-top: 40px;
+}
+
+/* Inputs */
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Button container */
+.op {
+    margin-top: 10px;
+}
+
+/* Buttons */
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Hover effect */
+button:hover {
+    background-color: #555;
+}
+
+/* Result */
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}

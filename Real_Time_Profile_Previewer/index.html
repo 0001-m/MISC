@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile Preview</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Profile Previewer</h2>
+
+<!-- Form -->
+
+<input type="text" id="name" placeholder="Enter your name" oninput="updateProfile()">
+<input type="text" id="email" placeholder="Enter your email" oninput="updateProfile()">
+<textarea  id="bio" placeholder="Enter your bio" oninput="updateProfile()"></textarea>
+
+<!-- Preview Card -->
+<div class="card">
+    <h3 id="pname">Your Name</h3>
+    <p id="pemail">Your Email</p>
+    <p id="pbio">Your Bio</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

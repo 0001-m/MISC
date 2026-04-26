@@ -1,0 +1,11 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Container */
+.container {
+    width: 60%;
+    margin: 20px auto;
+}
+
+/* Post */
+.post {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.post img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.post h2 {
+    margin-top: 0;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background: #eee;
+    padding: 10px;
+}

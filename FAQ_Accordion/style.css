@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.faq {
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    width: 250px;
+    cursor: pointer;
+}
+
+.answer {
+    display: none;
+    margin-top: 5px;
+}

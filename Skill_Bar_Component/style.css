@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    width: 50%;
+    margin: auto;
+}
+
+.bar {
+    background: #ddd;
+    height: 25px;
+}
+
+.progress {
+    height: 25px;
+    color: white;
+    text-align: right;
+    padding-right: 5px;
+}
+
+/* Individual skills */
+.html {
+    width: 80%;
+    background: green;
+}
+
+.css {
+    width: 70%;
+    background: blue;
+}
+
+.js {
+    width: 100%;
+    background-color: red;
+}

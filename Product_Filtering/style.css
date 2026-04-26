@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.card {
+    width: 200px;
+}
+
+.card img {
+    width: 100%;
+}
